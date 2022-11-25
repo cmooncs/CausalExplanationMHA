@@ -1,0 +1,371 @@
+Interpretations,top_tokens,label
+"not productive, worthless, hate, bored , issues, excited, no motivation, challenge, inconvinience, catastrophe, graduate , ambition","['kind', 'everyday', 'telling', 'least', 'body', 'seem', 'therapist', 'gone', 'different', 'constantly', 'literally', 'matter', 'leave', 'today', 'scared', 'house', 'problems', 'death', 'real', 'gets']",1
+"feeling trapped, paranoid, barely talks to me, donât have real friends, wanna scream, online friends, fake accomplishments, miserable","['hours', 'wrong', 'everyday', 'today', 'matter', 'wasnt', 'hurt', 'constantly', 'look', 'literally']",5
+ugly,"['health', 'believe', '4', None, 'im']",1
+"abuse suffered, hard person to love, scars, cyncism, feel unlovable, genetic tendencies ","['wouldnt', 'honestly', 'telling', 'bed', 'read', 'deal', 'wasnt', 'gonna', 'problems', 'matter', 'loved', 'mental', 'please', 'might', 'situation', 'recently', 'wrong', 'couple', 'close', 'constantly']",1
+"wasting money, sulking, failure, disappointment, hate life","['least', 'hours', 'therapy', 'honestly', 'others', 'gone', 'kind', 'couple', 'telling', 'stupid']",2
+"medical debt, failing grades, drop out grad school","['constantly', 'wants', 'stay', 'kind', 'stupid', 'others', 'crying', 'couple', 'feelings', 'close']",2
+"losing job, lose home","['therapist', 'gets', 'looking', 'came', 'please', 'yet', 'seem', 'either', 'deal', 'hes']",2
+,['believe'],0
+"life's shit, don't look forward, sad, friends","['honestly', 'stupid', 'wants', 'stuff', 'feelings', 'seem', 'gone', 'hours', 'telling', 'gets']",1
+"frustrating, expectations, lonely, blame, problem, agrees, irrational, bother, alone","['thinking', 'please', 'two', 'stay', 'said', 'kind', 'probably', 'gets', 'alive', 'others', 'looking', 'matter', 'fuck', 'deal', 'mom', 'situation', 'hes', 'death', 'hurt', 'constantly']",5
+"poor family, girlfriend, never born, want to go, commit suicide","['wouldnt', 'looking', 'working', 'gets', 'kind', 'constantly', 'gonna', 'stuff', 'gone', 'mean']",4
+"bad things, inevitable, worst","['loved', 'hes', 'situation', None, 'im']",5
+"sadness come from relationships, recent breakup, not having good friends","['said', 'mom', 'done', 'told', 'live', 'die', 'ill', 'thoughts', 'job', 'stop', 'give', 'days', 'need', 'long', 'away', 'getting', 'little', 'shit', 'first', 'say']",4
+prescribed,"['health', '4', 'says', 'believe', None]",3
+"no one heard me, deep thought, out of nowhere","['literally', 'situation', 'honestly', 'read', 'body', 'everyday', 'problems', 'deal', 'nobody', 'feelings']",1
+"fanatsy escapism, feel cuts, rope around my neck, running away, remote cabin","['high', 'head', 'net', 'u', 'death', 'house', 'deal', 'understand', 'alive', 'guess']",5
+"life, sucks, vent, fantasize, daydream, doubt","['month', 'sick', 'wanna', 'finally', 'weeks', 'understand', 'remember', 'everyday', 'girl', 'leave']",5
+"family, big fat dumb loser, reached limit, nothing helps, tried everything","['crying', 'working', 'mean', 'feelings', 'might', 'wouldnt', 'gone', 'seem', 'kind', 'situation']",4
+"friendship, people leave, changing current state, emptiness","['depressed', 'care', 'suicide', 'hard', 'long', 'take', 'made', 'started', 'felt', 'constantly', 'wouldnt', 'hope', 'lost', 'person', 'tried', 'money', 'might', 'sometimes', 'working', 'seem']",4
+"pain, lost, patince, understand, fear, pain, tired, begging, burden, wrong, help, tired, no joy, senstive, numb, hide, scream, suffer, existance,","['old', 'reason', 'sure', 'sad', 'almost', 'theres', 'best', 'money', 'dad', 'wanted', 'friend', 'another', 'left', 'wish', 'new', 'sick', 'mom', 'without', 'suicidal', 'aniety']",5
+"no friends, no career, no passion, no change, useless, disappointment, waste of space","['stupid', 'close', 'stuff', 'might', 'gonna', 'constantly', 'mean', 'gone', 'kind', 'stay']",4
+"insecure, parent gave little affection, narcissistic father, away from parents, afraid of loosing friends, ","['id', 'new', 'worse', 'money', 'thoughts', 'pretty', 'ago', 'said', 'sure', 'stop', 'nobody', 'suicidal', '3', 'though', 'situation', 'says', 'mental', 'mind', '2', 'sleep']",4
+"understand your depression, someone else depressed","['deal', 'alive', 'hes', 'couple', 'loved', 'yet', 'came', 'longer', 'either', 'situation']",4
+"suffering than joy, experiencing physical discomfort, totality of unconciousness","['telling', 'constantly', 'gets', 'looking', 'death', 'gone', 'crying', 'might', 'relationship', 'mean']",5
+drink,"['nobody', 'believe', 'longer', 'situation', 'says']",3
+"psych ward, go home, regret","['change', 'loved', 'recently', 'alive', 'read']",4
+"self harming, cutting myself, break from life ","['real', 'scared', 'crying', 'everyday', 'kind', 'stay', 'different', 'gets', 'us', 'least']",3
+"finally free, cure","['longer', 'either', '4', 'says', 'health']",0
+"lost everything, unending agony, better off giving up, ","['wants', 'feelings', 'stuff', 'mean', 'stupid', 'honestly', 'others', 'working', 'constantly', 'matter']",5
+make sure it work,"['situation', 'health', 'longer', 'believe', None]",0
+"prescribe medication, switch doctors, needs assessment, ","['wrong', 'sorry', 'pretty', 'let', 'wasnt', 'high', 'college', 'situation', 'night', 'hurt']",3
+"amazing boyfriend, mother verbally abusive, reputation ruining, checks phone, read texts ","['see', 'something', 'feeling', 'hate', 'still', 'way', 'anything', 'someone', 'mom', 'could', 'got', 'going', 'talk', 'though', 'never', 'family', 'things', 'nobody', 'read', 'wanted']",4
+"people comfortable around, try too hard to be funny, socially anxious","['stay', 'either', 'hes', 'relationship', 'hours', 'longer', 'part', 'making', 'says', 'understand']",1
+"panic attacks, panic disorder, life insufferable, lashing out at people, propranalol for anxiety, chronic anxiety condition","['doesnt', 'maybe', 'tell', 'ago', 'wanted', 'well', 'months', 'find', 'kill', 'alone', 'tired', 'trying', 'without', 'us', 'else', 'feelings', 'literally', 'part', 'lot', 'real']",3
+"look untouchable, being undesirable, feel pathetic, got slimmer, got more muscle, haircut, ","['read', 'hes', 'nobody', 'change', 'recently', 'longer', 'death', 'situation', 'says', 'talking']",1
+"zero support, no friends, want to reach people, family yells","['month', 'wanna', 'girl', 'post', 'making', 'different', 'place', 'weeks', 'u', 'house']",4
+"cry for help, feel lonely, sad every day","['death', 'alive', 'change', 'couple', 'telling', 'therapist', 'looking', 'came', 'please', 'kind']",5
+"lost sister to car accident, pet, lost home, lose job,burden on family ","['post', 'kind', 'weeks', 'month', 'looking', 'saying', 'change', 'house', 'deal', 'death']",4
+"parents divorced, verbal abuse, younger brother drug addict, brother vulnerable ","['already', 'mind', 'couldnt', 'bed', 'week', 'whole', 'gonna', '3', 'sorry', 'stuff', 'wasnt', 'honestly', 'start', 'today', 'close', 'stupid', 'hurt', 'seem', 'wants', 'hope']",4
+"closest friends distant, trying to get in contact, donât care","['change', 'came', 'deal', 'says', 'read']",4
+"monster, panicking, origionally preventing from becoming one","['problems', 'change', 'deal', 'loved', 'recently', 'came', 'yet', 'couple', 'saying', 'either']",5
+no one can resuscite,"['deal', 'yet', 'nobody', 'recently', 'longer']",0
+keep my mind occupied,"['says', 'longer', 'recently', 'yet', 'situation']",0
+"doormat for everyone, regret entire life, no one knew me, non-existence, probably kill dad, life horrible","['pain', 'find', 'stop', 'ago', 'change', 'close', 'gonna', 'give', 'tired', 'working', 'friend', 'tell', 'point', 'wouldnt', 'crying', 'worse', 'days', 'started', 'wanted', 'literally']",1
+free from cutting,"['hes', 'believe', 'says', None, 'im']",0
+"parents don't believe, school counselor, ","['stupid', 'literally', 'others', 'gonna', 'wants', 'mean', 'feelings', 'therapy', 'matter', 'crying']",4
+"diagnosed with ADHD, bipolar type 2, higher function autistic spectrum, reactive depression, gierlfriend/ wife diagnosed with incurable cancer","['friend', 'lot', 'find', 'home', 'kill', 'wish', 'tired', 'anyone', 'body', 'different', 'give', 'end', 'everything', 'well', 'ago', 'hours', 'scared', 'thoughts', 'literally', 'talk']",3
+"fighting self destructive impulses, tired of feeling guitly, never-ending nonsense, new relationship few years ago, husband, married","['wasnt', 'different', 'week', 'couldnt', 'wrong', 'whole', 'college', 'month', 'us', 'guess', 'remember', 'net', 'bed', 'used', 'hope', 'maybe', 'seems', 'sick', 'night', 'scared']",4
+"life starting to fall apart, body feels so tired","['working', 'crying', 'gonna', 'death', 'couple', 'longer', 'situation', '4', 'believe', 'telling']",5
+"not smart enough to get into grad school, donât want to live anymore, not worthy of living, disappointment","['gonna', 'wouldnt', 'kind', 'others', 'gone', 'mean', 'might', 'crying', 'stuff', 'wants']",2
+"relationship, drove hijm away, conversations are one sided, have not seen him since weeks","['give', 'weeks', 'mom', 'understand', 'new', 'days', 'wanna', 'wrong', 'post', 'sick', 'week', 'worse', '2', 'world', 'fuck', 'high', 'took', 'makes', 'many', 'id']",4
+"abusive mother, die since 6, begged for it everyday, every birthday, hate people see me cry, ","['tired', 'well', 'long', 'thats', 'tell', 'made', 'alone', 'college', 'tried', 'kill', 'wanted', 'keep', 'wasnt', 'months', 'talking', 'friend', 'first', 'try', 'point', 'care']",4
+"body disgusting, not good enough for girls, shitty decision making","['death', 'problems', 'either', 'loved', 'longer', 'deal', 'read', 'hes', 'says', 'situation']",1
+"imagine myself about to die, thinking about hanging, using hydrogen sulfide","['nobody', 'deal', 'close', 'yet', 'death', 'therapist', 'came', 'constantly', 'stay', 'problems']",5
+"trumatic incident, intention, harm, empty, avoid, apperance, socialize, meaningless, hate, slave, no difference, disappear, pointless, affected, lonely, unfulfilled, emptiness","['guess', 'week', 'fuck', '3', 'net', 'worse', 'said', 'used', 'u', 'today', 'mental', 'done', '2', 'pretty', 'head', 'others', 'two', 'stop', 'thinking', 'probably']",5
+"terminal disease, terminal cancer, heart problems","['yet', 'couple', 'please', 'death', 'nobody']",3
+"broke up with ex girlfriend, ","['trying', 'alone', 'thats', 'maybe', 'first', 'suicide', 'taking', 'almost', 'isnt', 'high', 'dad', 'best', 'past', 'u', 'head', 'another', 'college', 'find', 'bed', 'went']",4
+"wish made more money, ","['loved', 'hes', 'couple', 'either', 'deal', 'came', 'saying', 'crying', 'situation', 'telling', 'kind', 'nobody', 'part', 'others', 'looking', 'alive', 'constantly', 'mean', 'health', 'leave']",2
+"pressure , ignore , cry , emotions , relief , fine , wrong , pretend , reflect , urge , ","['deal', 'came', 'nobody', 'change', 'yet', 'saying', 'hes', 'pretty', 'help', 'come', 'feelings', 'looking', 'actually', 'death', 'situation', 'please', 'day', 'loved', 'see', 'every']",5
+"problem making friends, people donât like me, broke up with me, ","['stay', 'night', 'wants', 'today', 'hurt', 'bed', 'college', 'hours', 'wrong', 'couldnt', 'gone', 'head', 'others', 'took', 'close', 'guess', 'stuff', 'seem', 'high', 'saying']",4
+"mother, mother stands outside door","['nobody', 'recently', 'many', 'post', 'taking', 'read', 'relationship', 'else', 'close', 'self', 'making', 'took', 'gone', 'isnt', 'constantly', 'house', 'feels', 'says', 'used', 'wants']",4
+transferring to university early in fall,"['says', 'came', 'problems', 'read', 'please']",2
+"miss Da, not passionate about anything, easily lie to family, mediocre, ","['hurt', 'theres', 'went', '3', 'sorry', 'today', 'come', 'depression', 'wasnt', 'another', 'left', 'start', 'week', '2', 'happy', 'bad', 'high', 'ago', 'times', 'sometimes']",4
+"never have a meaningful relationship with anyone romantically, fucked to make a lasting impression, feeling betrayed, hurt by sumeone","['close', 'place', 'literally', 'matter', 'taking', 'seems', 'relationship', 'others', 'finally', 'hours']",4
+antidepressants,"['hes', 'recently', 'situation', '4', 'says']",3
+mental health podcast,"['yet', 'nobody', 'recently', 'change', 'deal']",0
+today was a good day,"['says', 'health', None, 'im', 'dont']",0
+"intense hatred towards women, fictional girls, hate romance","['recently', 'situation', 'change', '4', 'loved', 'says', 'kind', 'others', 'longer', 'yet']",1
+"catch up with deadlines, practical stuffs, study sessions, away from family, ","['body', 'wanna', 'different', 'wants', 'real', 'hours', 'part', 'alive', 'saying', 'telling']",2
+"broken soul, hopeless, lonely","['couple', 'alive', 'yet', 'death', 'nobody']",5
+commit suicide two weeks ago,"['read', 'health', '4', 'says', 'loved']",0
+"sick of dealing with life, stress and pain, episodes and stomach pain","['hes', 'couple', 'came', 'either', 'change', 'nobody', 'looking', 'deal', 'seem', 'yet']",5
+"chronic illness flare up, hobbies seems dull","['deal', 'nobody', 'yet', 'alive', 'health']",3
+"love heart wrenching music, depressed ","['deal', '4', 'believe', 'says', 'either']",0
+"lost car, lost job, boyfriend resents, cry in class, job didn't get","['past', 'sad', 'money', 'dad', 'left', 'reason', 'living', 'look', 'best', 'theres', 'probably', 'mind', 'couple', 'hope', 'making', 'bed', 'actually', 'post', 'went', 'looking']",2
+"feelings are leaking, deal with stress, ","['gone', 'least', 'girl', 'part', 'seem', 'everyday', 'constantly', 'pretty', 'leave', 'stupid', 'wouldnt', 'finally', 'body', 'probably', 'us', 'working', 'honestly', 'remember', 'gonna', 'real']",5
+unsure,"['death', 'couple', 'problems', 'yet', 'alive']",0
+"fear of commitment, daydream about someone walking up to me, self harming, ",[],4
+"feel empty emotionless and sad, hate myself, getting worse, want to cry","['stop', 'id', 'little', '2', 'though', 'days', 'fuck', 'pretty', 'stay', 'everyday', 'body', 'let', 'whole', 'college', 'scared', 'hurt', 'able', 'living', 'hope', 'head']",5
+"back in high school, forgetting classes, moving away from home, job","['gonna', 'gone', 'seem', 'stuff', 'feelings', 'constantly', 'crying', 'mean', 'either', 'literally']",2
+,"['loved', '4', 'believe', 'health', 'situation', 'longer', 'says', 'change', 'recently', 'deal']",0
+,"['friend', 'lot', 'wish', 'also', 'without', 'recently', 'sorry', 'bed', 'work', 'back', 'ever', 'weeks', 'try', 'every', 'way', 'kill', 'self', 'understand', 'wrong', 'make']",0
+just got dumped 10 minutes ago,"['alive', 'hes', 'change', 'loved', 'believe']",4
+"cant work, cant control my life, plotting to kill someone, mom wants to put camera in room","['please', 'yet', 'couple', 'came', 'death', 'therapist', 'telling', 'alive', 'nobody', 'might']",4
+"2 other friends accelerated and improved sharply, possible get kicked, friendship blew up today","['gonna', 'stuff', 'wouldnt', 'feelings', 'gets', 'others', 'working', 'saying', 'alive', 'kind']",4
+"barely feel anything, how people fall in love, academic life is shit","['read', 'yet', 'looking', 'month', 'body', 'leave', 'working', 'hours', 'stay', 'part']",4
+"good at hiding my feelings, corroded away the enjoyment, last low point","['part', 'remember', 'body', 'scared', 'leave', 'literally', 'us', 'finally', 'change', 'times', 'gonna', 'read', 'others', 'wants', 'fuck', 'wouldnt', 'relationship', 'death', 'matter', 'place']",5
+"OCD, stressed, exposure, desensitization, close, forced, apathy, motivation,","['hard', 'try', 'suicide', 'thats', 'ill', 'depressed', 'started', 'even', 'take', 'dont', 'long', 'went', 'really', 'care', 'person', 'tried', 'got', 'anyone', 'reason', 'first']",2
+"pain, heavy, empty, meaningless, hardship, lonely, trust, cherish, end","['telling', 'looking', 'came', 'gets', 'therapist', 'kind', 'please', 'health', 'says', 'saying']",5
+"operation, injured with dislocated shoulder, ","['used', 'high', 'sometimes', 'guess', 'whole', 'college', 'many', 'hurt', 'let', 'week', 'wrong', 'already', 'head', 'matter', 'night', 'another', 'net', 'u', 'talking', 'probably']",3
+"rejected from dream university, SAT practice, ","['hours', 'real', 'honestly', 'wants', 'stay', 'close', 'took', 'constantly', 'body', 'literally']",2
+"never had a girlfriend, donât have any friends, awful","['yet', 'hes', 'read', 'situation', 'nobody']",4
+"activity in college, getting punished","['understand', 'house', 'place', 'sick', 'high', 'weeks', 'relationship', 'talking', 'month', 'bed', 'net', 'alive', 'taking', 'college', 'used', 'remember', 'seems', 'couldnt', '4', 'couple']",2
+,"['problems', 'change', 'loved', 'situation', 'deal']",0
+"mom, dad, boyfriend, yelling at me, my dead body, anxious, emotions, suffer","['whole', 'used', 'net', 'making', 'guess', 'understand', 'high', 'hurt', 'u', 'let', 'bed', 'college', 'today', 'didnt', 'years', 'talking', 'make', 'taking', 'seems', 'think']",4
+"best friend, only reason alive","['different', 'deal', 'problems', 'looking', 'therapist', 'read', 'saying', 'body', 'please', 'yet']",4
+feel happy for them,"['crying', 'kind', 'hes', 'therapist', 'nobody', 'alive', 'looking', 'change', 'death', 'recently']",0
+"mad at mom, marrying ugly guy","['others', 'feelings', 'constantly', 'stupid', 'death', 'situation', 'please', 'came', 'seem', 'gets']",4
+"nice things delayed, climbing up, jumping","['stupid', 'gonna', 'might', 'gets', 'honestly', 'crying', 'constantly', 'working', 'wouldnt', 'stay']",5
+illusion,"['longer', '4', None, 'im', 'dont']",0
+"only person helped me, she was supportive, looking forward to talking to her","['something', 'everything', 'find', 'home', 'could', 'kind', 'someone', 'telling', 'tell', 'wish', 'didnt', 'made', 'work', 'tired', 'done', 'got', 'trying', 'crying', 'wrong', 'stop']",4
+,"['came', 'please', 'others', 'saying', 'gets', 'change', 'situation', 'therapist', 'telling', 'stupid']",0
+"OCD starts, paranoia, antidepressant, antipsychotics, prozac","['place', 'net', 'taking', 'making', 'scared', 'understand', 'weeks', 'crying', 'high', 'saying']",3
+calm my anxieties,[],0
+"emptiness, constant feeling","['says', 'believe', '4', None, 'im']",5
+"self medication, distract, no satisfaction","['post', 'wanna', 'making', 'finally', 'everyday', 'leave', 'real', 'part', 'different', 'remember']",5
+"not good at anything, live off my parents money, no job, donât go to school, disappointment","['telling', 'seem', 'yet', 'death', 'looking', 'saying', 'read', 'please', 'therapist', 'recently']",2
+"severe OCD, feel crippled, ","['world', 'makes', 'havent', 'lost', 'times', '2', 'many', 'month', 'change', 'left', 'others', 'feels', 'self', 'real', 'living', 'wanna', 'scared', 'actually', 'finally', 'recently']",3
+"opened up to wife thoughts, she left, feel incredible depression","['another', 'body', 'close', 'honestly', 'gonna', 'best', 'stupid', 'gone', 'stuff', 'crying', 'actually', 'seem', 'might', 'wouldnt', 'old', 'weeks', 'stay', 'girl', 'working', 'feelings']",4
+"antinatalist, nihilist, no point of living","['couple', 'telling', 'therapist', 'came', 'kind', 'gets', 'crying', 'death', 'change', 'read']",5
+"friends donât contact, insignificant contacting them, falling out of work schedule, ","['came', 'two', 'change', 'pain', 'able', 'problems', 'relationship', 'ago', 'days', 'deal', 'death', 'read', 'havent', 'though', 'many', 'alive', 'feelings', 'times', 'lost', 'making']",4
+"emotional numbness killed love for her, unable to feel emotions, liked teacher, donât really care about her anymore","['remember', 'death', 'hes', 'girl', 'everyday', 'weeks', 'came', 'problems', 'part', 'leave']",4
+"parents hate grades, absolute failure, suicidal thoughts surgedcrunching under pressure","['many', 'theres', 'money', 'come', 'living', 'aniety', 'havent', 'lost', 'actually', 'left', 'old', 'dad', 'another', 'able', 'suicidal', 'depressed', 'say', 'self', 'past', 'sad']",2
+"unemployed woman, feel like parasite, latching on mother and aunts for financial support","['done', 'wont', 'wanted', 'said', 'mom', 'little', 'without', 'worse', 'couldnt', 'suicidal', 'gets', 'give', 'hurt', 'sleep', 'wasnt', 'sometimes', 'pretty', 'money', 'stop', 'days']",2
+"life is unusually and complex, everything is meaningless, born for no reason","['nobody', 'death', 'alive', 'hes', 'saying', 'change', 'read', 'yet', 'either', 'kind']",5
+"have nothing, can never be better or good, trying hard","['working', 'gone', 'telling', 'wouldnt', 'seem', 'mean', 'hes', '4', 'yet', 'change']",5
+"she gone, die alone and uncared for","['others', 'feelings', 'constantly', 'stuff', 'wants', 'telling', 'looking', 'therapist', 'gets', 'gonna']",4
+"gave up my job to go back to school full time, ","['gone', 'feelings', 'close', 'stuff', 'took', 'honestly', 'might', 'stay', '4', 'body']",2
+"overflood with emotions, feel more anxious, warning sign, social situations","['kind', 'alive', 'yet', 'believe', 'please']",5
+"worse , exhausted , loss ","['seem', 'gonna', 'situation', 'says', 'therapist', 'looking', 'crying', 'longer', 'constantly', 'problems']",5
+donât deserve to live anymore,"['please', 'couple', 'health', 'nobody', 'either']",0
+"first ever boyfriend just broke up, confronting about cheating","['body', 'literally', 'others', 'wants', 'took', 'close', 'therapy', 'saying', 'alive', 'therapist']",4
+,"['couple', 'telling', 'working', 'please', 'saying', 'therapist', 'nobody', 'gets', 'mean', 'hours']",0
+,"['yet', 'recently', 'longer', 'loved', 'hes']",0
+"cry yourself, wishing someone would help you through pain","['hes', 'situation', 'yet', 'either', 'recently']",5
+"boss want to hire, decided to leave to start masters, not finding any jobpressure of no succeeding","['new', 'done', 'said', 'two', 'aniety', 'sure', 'times', 'look', 'little', 'sleep', 'suicidal', 'start', 'days', 'money', 'past', 'hope', 'put', 'hes', 'recently', 'leave']",2
+"raped, boyfriend ended up calling in the middle of everything","['everyday', 'part', 'deal', 'stay', 'took', 'close', 'change', 'leave', 'matter', 'therapy']",1
+sending good vibes,"['yet', 'recently', 'health', 'says', 'problems']",0
+PTSD,"['situation', 'loved', 'recently', 'hes', 'says']",3
+"lowest point, head starts ringing, hate yourself, ","['felt', 'trying', 'tired', 'well', 'keep', 'months', 'else', 'tried', 'depressed', 'people', 'never', 'long', 'made', 'night', 'first', '2', 'person', 'little', 'home', 'know']",5
+"no friends, never experience feeling of having teenage romance, never get asked to prom, undateable","['got', 'good', 'feeling', 'see', 'better', 'anyone', 'work', 'another', 'seems', 'fucking', 'anything', 'someone', 'make', 'talking', 'something', 'always', 'dad', 'way', 'could', 'almost']",4
+"mom bug, shopping talks, she is justifying presence, feel anxiety in public","['ago', 'pain', 'depressed', 'worse', 'either', 'suicide', 'think', 'recently', 'new', 'go', 'loved', 'keep', 'health', 'mom', 'first', 'give', 'deal', 'nobody', 'situation', 'love']",4
+"family is shitty, best friend doesnât want to be friend anymore, family is wreck, ","['best', 'reason', 'past', 'hope', 'tried', 'first', 'trying', 'tell', 'old', 'put', 'maybe', 'aniety', 'else', 'tired', 'getting', 'dad', 'wanted', 'well', 'mind', 'look']",4
+"breakup with ex 2 months ago, not suicidal before relationship, bad luck in relationships","['sometimes', 'used', 'sorry', 'bed', 'scared', 'already', 'probably', 'couldnt', 'wasnt', 'matter']",4
+"nothing to look forward, nothing excites, fun nomore","['yet', 'situation', 'loved', 'hes', 'believe']",5
+"without rules of society, ","['came', 'saying', 'weeks', 'scared', 'nobody', 'month', 'different', 'making', 'looking', 'sick', 'crying', 'change', 'leave', 'telling', 'deal', 'understand', 'read', 'wanna', 'remember', 'death']",0
+"job hiding, boss pulled aside, when at work, end up spending hours just staring at the walls, ","['kill', 'wanted', 'tired', 'well', 'find', 'without', 'wont', 'trying', 'therapy', 'girl', 'least', 'doesnt', 'gone', 'seem', 'body', 'night', 'everyday', 'honestly', 'enough', 'months']",2
+"senior in high school, life miserable, hate school, ","['recently', 'stuff', 'looking', 'wouldnt', 'gonna', 'crying', 'constantly', 'problems', 'loved', 'working']",2
+"parents force to work, were to have dream job, come to work most of the times late, tired of them complaining","['girl', 'part', 'first', 'hard', 'hours', 'wanna', 'close', 'weeks', 'tried', 'friend', 'kill', 'sick', 'also', 'couple', 'dad', 'death', 'making', 'took', 'lot', 'therapy']",2
+"started thinking about bad/ hurtfull things, feeling good to researching ways to kill myself, want to stop feeling guilty","['recently', 'hes', 'problems', 'alive', 'change', 'yet', 'nobody', 'read', 'week', 'gets']",5
+,"[None, 'im', 'dont', 'like', 'feel']",0
+"burden to everyone, coward, so much pain and tears","['please', 'came', 'therapist', 'kind', 'took', 'death', 'looking', 'nobody', 'mean', 'longer']",5
+"friend supporting to this very moment, keep pushing and keep trying, family doesnât care, didnât eat or did anything productive","['gonna', 'gets', 'mean', 'working', 'mind', 'stuff', 'wouldnt', 'seem', 'crying', 'looking', 'gone', '3', 'came', 'constantly', 'stay', 'wants', 'hurt', 'already', 'stupid', 'others']",4
+"traumatized from being sexually assaulted after graduation party, hurt so many people, emotionally unavailable","['living', 'actually', 'aniety', 'sleep', 'look', 'put', 'theres', 'dad', 'hope', 'left', 'self', 'another', 'makes', 'able', 'mental', 'hes', 'lost', 'reason', 'almost', 'times']",1
+,"['might', 'nobody', 'gets', 'saying', 'longer', 'seem', 'recently', 'believe', 'health', 'says']",0
+"feel like dead and invisible to women, something unfixably wrong with me, neuroticism, introversion, possible aspergers","['dad', 'living', 'another', 'actually', 'much', 'go', 'think', 'almost', 'self', 'best', 'theres', 'whole', 'day', 'guess', 'love', 'wrong', 'week', 'let', 'might', 'left']",1
+"no idea what we are talking about, panic, ","['mean', 'might', 'gonna', 'saying', 'gone', 'crying', 'gets', 'constantly', 'looking', 'stuff']",5
+,"['either', 'longer', 'says', None, 'im']",0
+" constant feeling of being judged, mocked, persecuted against, glared at, being the one in others way, being talked about. ",[],1
+"Moving away from friends and attending a new school has hit hard, lost motivation","['telling', 'crying', 'gets', 'kind', 'change', 'death', 'gone', 'alive', 'gonna', 'wouldnt']",4
+"traumatic events, health issues, impact on me, not doing well","['gone', 'constantly', 'crying', 'honestly', 'feelings', 'wouldnt', 'couple', 'please', 'hes', 'came']",3
+"diagnosed, mental illness, shit on myself, should be dead, being lazy, hate articulating","['scared', 'isnt', 'real', 'us', 'taking', 'remember', 'seems', 'girl', 'understand', 'everyday']",5
+,"['loved', 'says', 'situation', 'health', '4']",0
+"parents fight all time, verbally abused, mother yells","['least', 'real', 'everyday', 'part', 'girl', 'yet', 'stay', 'literally', 'constantly', 'matter']",4
+"so tired, sick of failing in life, sick of people calling crazy","['kind', 'telling', 'therapist', 'crying', 'might', 'wouldnt', 'change', 'looking', 'please', 'stuff']",5
+"self hatred. emotionally filled, disgust in myself, hard time","['saying', 'looking', 'gets', 'seem', 'kind', 'telling', 'alive', 'read', 'change', 'gone']",5
+"crying, feel sick","['problems', 'couple', 'saying', 'therapist', 'alive']",0
+"stopped friends from killing themselves, doesnât even matter","['deal', 'health', 'change', 'hes', 'yet']",0
+"donât think have any real friends, noticeably sadder, mental health issues, can't find motivation, doing shit, can't bring myself","['real', 'least', 'remember', 'honestly', 'others', 'month', 'making', 'took', 'relationship', 'stuff', 'crying', 'today', 'post', 'seems', 'us', 'might', 'taking', 'college', 'seem', 'understand']",4
+Let me try to get some healing time jesus,"['recently', 'change', 'therapist', 'constantly', 'saying', 'wants', 'mean', 'please', 'stuff', 'hes']",0
+"supposed to graduate in december, exams, 23% on test, health problems, feel so stupid, student loan","['house', 'loved', 'yet', 'place', 'might', 'relationship', 'finally', 'alive', 'stupid', 'couple']",2
+"family deserted, homeless soon, dad threatened, mom left, brother hates me, friends stopped talking, worthless person, i'm a problem, can't last longer","['therapist', 'came', 'telling', 'kind', 'read', 'death', 'saying', 'alive', 'couple', 'looking']",4
+,"['health', 'either', 'says', '4', None]",0
+dream about being hugged by friends,"['please', 'came', 'loved', 'therapist', 'nobody', 'death', 'situation', 'read', '4', 'believe']",4
+need a girlfriend,"['came', 'couple', 'saying', 'death', 'deal']",4
+"emptines, period of apathy, feeling of miserable, cannot deal with","['gone', 'nobody', 'might', 'constantly', 'wouldnt', 'looking', 'telling', 'change', 'read', 'gonna']",5
+,"['took', 'honestly', 'stupid', 'mean', 'couple', 'seem', 'might', 'change', 'death', 'looking']",0
+"did, do it right, suffering","['says', 'health', None, 'im', 'dont']",0
+"death threats, job seems fail, vehicles taken towed, phone constantly hacked, get arrested","['gone', 'stuff', 'might', 'looking', 'came', 'seem', 'working', 'crying', 'death', 'alive']",2
+"ex, abandoning me, burden, painful","['change', 'nobody', '4', 'week', 'read', 'hes', 'alive', 'says', 'came', 'longer']",4
+"tried to fight, leethal, painful, end my life, crap","['recently', 'yet', 'might', 'death', 'hes', 'nobody', 'either', 'deal', 'read', 'situation']",5
+"hallucinations, scary, desensitized","['longer', 'us', 'came', 'loved', 'hes', 'scared', 'recently', 'couple', 'deal', '4']",1
+"condsidering something stupid, scared, sad, numb","['alive', 'came', 'death', 'literally', 'couple', 'body', 'finally', 'problems', 'deal', 'took']",5
+"get misinterpreted, need validation, don't feel good, selfish, meds","['loved', 'nobody', 'recently', 'situation', 'longer']",1
+"hate myself, emptiness, lonely, carve attention, hate my inability, self esteem issues, feel kinda guilty, wasting my life, ugly, no motivation","['something', 'every', 'start', 'anyone', 'anymore', 'since', 'understand', 'see', 'right', 'nothing', 'school', 'weeks', 'never', 'bad', 'back', 'everyone', 'job', 'mental', 'money', 'put']",5
+"social anxiety, introverted, excluded from everything, feel absolutely worthless, everyone ignores me, rejected, grades are horrible, cannot comprehend, feel empthy, bored/emotionsless","['end', 'always', 'since', 'someone', 'work', 'depression', 'everything', 'didnt', 'everyone', 'thing', 'sick', 'day', 'making', 'feeling', 'something', 'care', 'talk', 'good', 'first', 'much']",5
+"kill myself tired with life, wanting to cry","['kind', 'looking', 'came', 'nobody', 'saying', 'loved', 'read', 'therapist', 'death', 'change']",5
+"everyone hates me, ignore me, feel useless, worthless, reject, have failed, burden, suspended my studies","['saying', 'kind', 'looking', 'telling', 'alive', 'wouldnt', 'week', 'whole', 'bed', 'seem']",5
+"systemic loneliness, troubles, late sleep","['came', 'therapist', 'please', 'deal', 'recently']",5
+"absolute disaster, smoking, drinking, sleeping","['almost', 'dad', 'best', 'past', 'come', 'left', 'many', 'another', 'actually', 'makes', 'aniety', 'feels', 'sorry', 'world', 'sure', 'understand', 'working', 'lost', 'wanna', 'old']",3
+"failing grades, disappointment, feeling embarresed, can't handle it, life is shit","['high', 'guess', 'whole', 'week', 'college', 'let', 'bed', 'used', 'scared', 'sometimes']",2
+"she saw me struggling, immediately came to comfort me, baggage on random person, ","['either', 'looking', 'therapist', 'gets', 'couple', 'death', 'please', 'telling', 'hes', 'problems']",4
+"We ended up arguing, being manipulative, was spoilt, extremely embarrassed, feel stupid, pathetic","['therapist', 'seem', 'looking', 'telling', 'gonna', 'gets', 'problems', 'loved', 'crying', 'came']",4
+"familed my semester, everything just fail, not emotionally stable, empty feelings, can't focus","['hard', 'depressed', 'alone', 'keep', 'suicide', 'different', 'made', 'care', 'long', 'maybe', 'others', 'months', 'couldnt', 'doesnt', 'hurt', 'matter', 'sick', 'literally', 'started', 'new']",2
+"hurts to exist, hate myself, digusting excuses, pathetic","['deal', 'couple', 'read', 'problems', 'alive']",1
+"ugly, prorisis, baby face moderate acne, anixous, mini heart attack, get judged, would get critisied, out of pity, can't lose weight,","['kill', 'wont', 'lot', 'well', 'pain', 'else', 'havent', 'constantly', 'stuff', 'take', 'matter', 'wants', 'others', 'didnt', 'shit', 'situation', 'home', 'away', 'wanted', 'find']",1
+,"['leave', 'part', 'sick', 'everyday', 'left', 'mean', 'stupid', 'literally', 'remember', 'different', 'dad', 'month', 'feelings', 'past', 'post', 'honestly', 'might', 'constantly', 'others', 'reason']",0
+"make fun of it, life is boring","['either', 'situation', 'longer', 'health', 'says']",5
+"can't do things, tired, sad, piece of shit, cry","['look', 'sad', 'suicidal', 'mental', 'sleep', 'aniety', 'left', 'hope', 'loved', 'theres', 'sure', 'read', 'old', 'best', 'feels', 'therapist', 'mind', 'death', 'put', 'money']",5
+"problems in family, don't deserve, weird feelings,feel so stupid, im punishment, feel so bad","['new', 'making', 'fuck', 'though', 'remember', 'mom', 'friend', 'alive', 'worse', 'thoughts', 'wanted', 'sick', 'finally', 'wanna', 'stop', 'relationship', 'wish', 'change', 'lot', 'kill']",1
+"lost best friend, mental state, school work, stress, loneliness, trouble, painfully","['wanna', 'real', 'finally', 'please', 'came', 'leave', 'remember', 'death', 'different', 'part', 'couple', 'post', 'u', 'therapist', 'gets', 'longer', 'us', 'mind', 'girl', 'head']",4
+"suicide methods, pills and drink some Jack Daniels","['wouldnt', 'looking', 'death', 'problems', 'read', 'alive', '4', 'situation', 'saying', 'might']",3
+"irritated interections, quiet now","['loved', 'hes', 'deal', 'read', 'nobody']",5
+"mom keep bugging, compare me, sulking in bedroom","['might', 'either', 'came', 'crying', 'saying', 'nobody', 'please', 'health', 'couple', 'alive']",4
+"beer, human suffering","['stuff', 'nobody', 'wouldnt', 'kind', 'mean', 'telling', 'problems', 'deal', 'yet', '4']",3
+"cut myself, pain hurts, snapped me back","['change', 'recently', 'loved', 'situation', 'stay', 'hes', 'longer', 'health', 'read', 'nobody']",3
+"people, live too","['read', 'problems', 'death', 'deal', 'couple']",0
+"was a mistake, abort me, ugly, lonely, procrastinating, i'm a fail, big mess, not worthy, tired","['seem', 'therapist', 'saying', 'crying', 'telling', 'either', 'came', 'gets', 'looking', 'read']",4
+"disease, bad health, insomnia, get to suffer, awful sleep, having problems, damage your mind, panful journey","['leave', 'part', 'everyday', 'literally', 'girl', 'body', 'close', 'us', 'least', 'took']",3
+"dad died, mental barrier, everyday is battle, fear myself","['leave', 'finally', 'wanna', 'everyday', 'different', 'girl', 'body', 'real', 'least', 'scared']",4
+"ruined, dumb","['therapist', 'saying', 'change', 'please', 'crying']",1
+"worthlessness, feel guilt overwhelming sadness, want to died, this hurts, tired of seeling","['feelings', 'whole', 'constantly', 'different', 'couldnt', 'week', 'remember', 'everyday', 'might', 'least']",5
+"serious problems, anxiety, suffering, feel so lonely, molested, regressing, never really belonging, overdosing","['alive', 'read', 'deal', 'loved', 'change', 'couple', 'hours', 'least', 'recently', 'constantly', 'well', 'problems', 'find', 'worse', 'telling', 'two', 'hes', 'tell', 'remember', 'everyday']",1
+"loneliness, doom to mediocrity, meaningless, wage salvery, soul sucking job, feel utter despair, no cocomplisments, protracted, incapable of caring, took a benzo","['month', 'different', 'making', 'everyday', 'close', 'scared', 'honestly', 'hours', 'therapy', 'post', 'others', 'wouldnt', 'suicidal', 'pretty', 'gone', 'constantly', 'stupid', 'working', 'whole', 'stuff']",5
+,['hes'],0
+"incredibly alone, screaming for help, nobody notice, nobody sees, nobody hears me","['nobody', 'loved', 'recently', 'situation', 'longer']",5
+,"['says', 'health', '4', None, 'im']",0
+"people in my life that care/depend on me, impact on someones life, ","['hurt', 'sorry', 'probably', 'night', 'week', 'pretty', 'hope', 'remember', 'let', 'real']",4
+"fiance just broken up with me, absolute mess, ","['therapist', 'problems', 'alive', 'change', 'death']",4
+"partial suspension hanging, headache","['loved', 'situation', '4', 'longer', None]",3
+"feel nobody cares, never had anybody, really hurt, broken person, putting me down, constantly miserable, problems, need help, fix myself, vent","['post', 'leave', 'sick', 'seems', 'havent', 'old', 'month', 'money', 'us', 'isnt', 'remember', 'finally', 'making', 'scared', 'understand', 'look', 'thinking', 'taking', 'house', 'sure']",4
+"wife hates me, have no money, gross, fat","['wanna', 'weeks', 'sick', 'making', 'finally', 'honestly', 'isnt', 'different', 'stupid', 'wants']",4
+"alone, self slaugther, haunt, scare","['different', 'hours', 'stay', 'wants', 'scared', 'us', 'part', 'others', 'took', 'stupid', 'close', 'body', 'read', 'mean', 'came', 'finally', 'recently', 'week', 'loved', 'post']",5
+"not enough money, became homless, can't afford school, anxiety, hospitalization/drug, severe panic attacks, mental break, prozac","['much', 'go', 'years', 'anymore', 'things', 'friends', 'never', 'fucking', 'help', 'back', 'net', 'used', 'let', 'time', 'college', 'relationship', 'looking', 'yet', 'us', 'scared']",2
+"unemployed, suffering mentally","['saying', 'problems', 'couple', 'crying', 'therapy', 'death', 'alive', 'please', 'came', 'girl']",2
+"struggling, not accomplishing anything, beating myself up, being lazy","['try', 'long', 'suicide', 'hard', 'take', 'person', 'thats', 'felt', 'keep', 'leave', 'parents', 'start', 'wrong', 'probably', 'lot', 'ago', 'hours', 'feelings', 'might', 'mind']",5
+"barely few friends, My crush has seen me at my desk when I'm going through a rough time but she just ignores me, autistic, ADHD, affecting me emotionally","['change', 'yet', 'nobody', 'read', 'wrong', 'situation', 'alive', 'therapist', 'problems', 'probably', 'couple', 'recently', 'fuck', 'night', 'death', 'came', 'wasnt', 'constantly', 'matter', 'sick']",4
+"feel incomplete, loneliness, alone, struggling with feeling, introverted","['parents', 'person', 'also', 'literally', 'thing', 'took', 'hard', 'others', 'guess', 'thats', 'try', 'care', 'bed', 'taking', 'u', 'kind', 'telling', 'crying', 'looking', 'saying']",5
+"broken relationship, I only have my parents who will not allow me treatment, difficult expressing feeling","['week', 'bed', 'post', 'part', 'finally', 'us', 'real', 'seems', 'remember', 'used']",4
+"lonely, tired of fighting, at loss","['wouldnt', 'mean', 'working', 'gonna', 'honestly', 'constantly', 'nobody', 'gone', 'others', 'loved']",5
+"don't have friends, not a girlfreind, anxious around people, awkward around people, toxic people, backfired me, blamed me, weird vibes","['talking', 'relationship', 'u', 'finally', 'situation', 'sick', 'place', 'weeks', 'guess', 'real']",4
+"feeling like shit, can't handle it, drugs","['recently', 'hes', 'deal', 'situation', 'nobody', 'change', 'yet', 'read', 'says', 'alive']",3
+"girl's suicide, carve death, pain, drunk, cried","['though', 'makes', 'new', 'self', 'days', 'little', '2', 'thinking', 'feels', 'pain', 'wants', 'stupid', 'fuck', 'might', 'hours', 'stop', 'gonna', 'done', 'said', 'gone']",4
+"grades going down, failing at tests, i am failure, alone, threathening me, carve for love","['probably', 'wasnt', 'night', 'sorry', 'already', 'college', 'bed', 'taking', 'wanna', 'wouldnt']",2
+"to open up, trap","['longer', '4', 'health', 'believe', None]",5
+"mental illness, annoying","['says', 'hes', 'longer', 'recently', '4']",3
+,"['longer', 'says', '4', 'health', 'either']",0
+,"['deal', '4', 'hes', 'says', 'recently']",0
+"horrible stomach problems, feel nauseous constantly, mental health,ton of pain, gotten malnourished, sinus infections, feels shattered, frustration, vent","['death', 'problems', 'situation', 'either', 'recently', 'loved', 'wanted', 'done', 'please', 'yet', 'hes', 'care', 'couple', 'live', 'making', 'nobody', 'little', 'wont', 'happy', 'worse']",3
+"feel empty, just can't anymore, erase myself painlessly, stop existing","['problems', 'couple', 'alive', 'deal', 'read']",5
+"want someone, encourage me, on meds, in therapy","['couldnt', 'bed', 'sometimes', 'night', 'whole', 'used', 'matter', 'house', 'wouldnt', 'sick']",5
+"phyiscal underlying pain, trauma, coward","['crying', 'telling', 'kind', 'saying', 'therapist', 'came', 'please', 'seem', 'finally', 'remember']",3
+"abuse, been hurt, hurt people","['saying', 'gets', 'crying', 'telling', 'wouldnt', 'please', 'mean', 'gonna', 'stuff', 'might']",1
+"mom took me to a psychatrist appointment, mom mentioned the eating disorder, asked bmi","['net', 'best', 'isnt', 'talking', 'sure', 'reason', 'taking', 'seems', 'went', 'past', 'old', 'mental', 'dad', 'guess', 'let', 'making', 'start', 'look', 'kind', 'therapy']",3
+"parents go, care","['says', 'believe', None, 'im', 'dont']",4
+"root cause, cousin died, molested me, family is angry, , feels overwhelming","['everyday', 'leave', 'part', 'scared', 'finally', 'literally', 'different', 'us', 'post', 'stupid']",4
+"unbearable, anxious","['change', 'read', 'situation', 'health', '4']",5
+"life is fucked, family is fucked, poor health, poor, losing my mind, exhausted, tired of crying, whining, wheeping","['wants', 'hope', 'stuff', 'gone', 'wouldnt', 'matter', 'took', 'stupid', 'gonna', 'literally', 'therapy', 'hours', 'probably', 'aniety', 'constantly', 'others', 'part', 'past', 'least', 'mental']",5
+"bad at learning, crying from frustration, never good","['longer', 'either', 'situation', 'deal', 'read']",2
+"unemployed, homeless, no money, fucked up everything, social anxiety, can't fight back, dropped from uni, never had gf, social awkward, lived in isolation","['everyday', 'u', 'place', 'part', 'girl', 'seems', 'body', 'guess', 'high', 'different']",2
+"i am done, quit talking, block me","['yet', 'nobody', 'kind', 'either', 'situation', 'recently', 'read', 'says', 'change', 'please']",5
+"no point living, lonely, helpless, unloved, pain, terrified","['problems', 'deal', 'longer', 'hes', 'yet', 'either', 'honestly', 'death', 'couple', 'recently']",5
+felt generally shit,"['wouldnt', 'mean', 'crying', 'kind', 'saying', 'might', 'seem', 'gets', 'couple', 'deal']",0
+,"['situation', 'recently', 'longer', '4', None]",0
+"GAD, feeling guilty, roug patch, sleeping less","['bed', 'college', 'sometimes', 'whole', 'today', 'high', 'night', 'couldnt', 'hurt', 'guess']",3
+tried to hang,"['nobody', 'situation', 'believe', 'recently', 'loved']",0
+"parents refuse therapy, they don't understand, want to die, dissapoint, i'm burden, disgust,","['look', 'suicidal', 'sure', 'old', 'making', 'sad', 'money', 'put', 'another', 'finally', 'start', 'weeks', 'gets', 'past', 'place', 'id', 'month', 'dad', 'relationship', 'went']",4
+being ignored,"['loved', '4', None, 'im', 'dont']",1
+"anxiety, pressure","['couple', 'recently', 'yet', 'problems', 'either', 'hes', 'situation', 'read', 'says', 'loved']",0
+"feel worthless, no close friends, social rejections, funtionally broken","['seem', 'wants', 'wouldnt', 'gonna', 'matter', 'stay', 'everyday', 'working', 'body', 'literally']",5
+sobbing,"['recently', 'health', 'longer', None, 'im']",0
+"worked for two years for getting a university at Japan, high school and university disaster, racism, got declined","['might', 'seem', 'stupid', 'saying', 'came', 'couple', 'kind', 'looking', 'relationship', 'gonna']",2
+,"['believe', '4', None, 'im', 'dont']",0
+"parents have yelled, things wrong, never believed me, things wrong with me","['telling', 'stuff', 'change', 'mean', 'matter', 'us', 'crying', 'sick', 'everyday', 'constantly']",4
+"they think I am weirdo, family is in a financial crunch, perform the way I should","['hope', 'mind', 'aniety', 'put', 'sleep', 'mental', 'start', 'suicidal', 'look', '3', 'telling', 'part', 'wasnt', 'wants', 'hurt', 'seem', 'probably', 'sorry', 'leave', 'matter']",2
+"worlds been shattered, blowing this disease out of proportion","['others', 'wants', 'stay', 'stuff', 'honestly', 'feelings', 'close', 'constantly', 'gone', 'part']",2
+"tired, nightmares, exhausted",[],5
+"family is homophobic, exclude me, ignore me","['recently', 'loved', 'nobody', '4', 'deal']",1
+"mental state deteriorating, feel guilty, can't focus, memeory is crap, chest pain, have no energy worried, worse thoughts, exhausting","['last', 'right', 'hate', 'bad', 'shit', 'doesnt', 'family', 'months', 'talk', 'away', 'care', 'love', 'live', 'gets', 'since', 'end', 'made', 'working', 'tell', 'else']",3
+"huge hallucination, constant pain","['read', 'deal', 'yet', 'longer', 'believe']",3
+"everybody hates me, ugly, useless, talentless feel guilty, feel so repetetive, wanting to die, will eventually die","['weeks', 'making', 'understand', 'seems', 'post', 'real', 'leave', 'loved', 'relationship', 'wanna']",1
+,[None],0
+"no independence, trapped, hate my family, hate it here, pain pills","['came', 'crying', 'telling', 'working', 'kind', 'saying', 'deal', 'read', 'alive', 'wouldnt']",4
+ Again no reason to feel this way,"['matter', 'girl', 'wrong', 'part', 'least', 'week', 'stay', 'hours', 'scared', 'wouldnt']",0
+"kill myself, worried, hotline, talk, someone","['saying', 'change', 'loved', 'alive', 'health']",0
+"family, effect people, ","['therapy', 'took', 'gone', 'others', 'body', 'wants', 'matter', 'yet', 'feelings', 'literally']",0
+"my finals this august, hard to motivate","['telling', 'looking', 'working', 'seem', 'couple', 'please', 'recently', 'change', 'nobody', '4']",2
+"worm on earth, feel so defeaed, hurting myself, vent","['constantly', 'others', 'wants', 'honestly', 'longer', 'either', 'gone', 'close', 'feelings', 'gonna']",5
+"disappointed with me, no motivation, struggling, homework to catch, tough, pain","['mean', 'might', 'matter', 'crying', 'stuff', 'looking', '3', 'kind', 'working', 'gets', 'wants', 'wouldnt', 'month', 'therapist', 'stay', 'different', 'feelings', 'remember', 'probably', 'took']",3
+helpless,"['change', 'either', 'believe', 'loved', 'read']",5
+"feel lonely, perpetually sad","['couple', 'hes', 'came', 'yet', 'therapist', 'stay', 'read', 'gonna', 'seem', 'telling']",5
+"abuse me, hurt me mentally","['came', 'alive', 'change', 'read', 'loved', 'couple', 'seem', 'deal', 'death', 'honestly']",1
+"stay up late, freak out, self hate, anxious thoughts, stressed, sad","['might', 'gonna', 'mean', 'deal', 'wouldnt', 'looking', 'stuff', 'working', 'death', 'therapist']",5
+"lost my job, medical debt, lost my car, struggling, threat to myself, don't like myself, embarresed of life, piils","['sometimes', 'u', 'high', 'used', 'college', 'whole', 'today', 'taking', 'bed', 'talking', 'leave', 'wouldnt', 'net', 'actually', 'constantly', 'seem', 'close', 'others', 'money', 'house']",2
+"people donât listen anymore, have nobody to turn to, have nobody","['telling', 'gonna', 'gets', 'might', 'working', 'therapist', 'seem', 'crying', 'hes', 'recently']",1
+"anti social, mocking, scared, want help, crying","['constantly', 'stay', 'already', 'others', 'wouldnt', 'mean', 'bed', 'college', 'today', 'hours']",5
+"failed my exam, ADHD, social integration, parents were strick, got isolated, masturbate, aloholic drink, pain","['month', 'sick', 'part', 'head', 'scared', 'weeks', 'stupid', 'matter', 'feelings', 'honestly']",2
+"poverty, shitty parents","['close', 'literally', 'different', 'remember', 'girl', 'body', 'part', 'wanna', 'took', 'matter']",4
+"anxious, panic attack, nervous, sad, no cure","['loved', 'hes', 'nobody', 'situation', 'change']",3
+"learn to live, talk","['problems', 'read', 'believe', 'says', '4']",0
+job searching,"['situation', 'loved', 'health', 'longer', 'recently']",2
+"fed up, pain","['hours', 'others', 'honestly', 'stupid', 'stuff', 'saying', 'feelings', 'deal', 'nobody', 'gonna']",5
+"useless , life insurance , donate , no funeral cost , huge sum of money , waste of time","['body', 'part', 'leave', 'therapy', 'close', 'scared', 'real', 'let', 'saying', 'read']",4
+"stupid deciosions, living in past, can't keep going","['deal', 'nobody', 'change', 'alive', '4']",5
+"extremely abusive, toxic, sturggled, anxiety","['high', 'let', 'talking', 'net', 'u', 'place', 'college', 'literally', 'house', 'today']",1
+"never had relief, girlfriend, feel ungrateful, burden, exhausting","['close', 'literally', 'therapy', 'making', 'matter', 'took', 'wants', 'honestly', 'stay', 'relationship', 'feelings', 'understand', 'post', 'hours', 'wanna', 'yet', 'least', 'sick', 'month', 'saying']",4
+think of suicide,"['therapist', 'problems', 'couple', 'please', 'deal']",0
+"friend, anxious, selfharmed","['care', 'suicide', 'alone', 'keep', 'first', 'trying', 'tried', 'maybe', 'matter', 'everyday', 'else', 'left', 'self', 'alive', 'wants', '2', 'wont', 'bed', 'sure', 'find']",5
+,"['alone', 'maybe', 'long', 'doesnt', 'tried', 'trying', 'first', 'care', 'made', 'tired', 'wanted', 'friend', 'tell', 'suicide', 'lot', 'mind', 'reason', 'went', 'ago', 'find']",0
+"ocular migranes, feel detached, chronic visual shows, horrible anxity, never been trauma, parents, hate myself, hit me, hopless, irritable","['always', 'year', 'good', 'anything', 'everything', 'feeling', 'work', 'could', 'better', 'almost', 'depression', 'havent', 'see', 'look', 'still', 'give', 'wanted', 'nobody', 'wasnt', 'health']",3
+"terrified, overwhelmed, therapy","['finally', 'us', 'remember', 'girl', 'therapy', 'wanna', 'sick', 'post', 'part', 'everyday']",4
+"im cursed, alone, abusive relationships, anxiety, addicted parents, eating disorder, disappointed","['took', 'stay', 'close', 'mind', 'wasnt', 'matter', 'already', '3', 'literally', 'pretty', 'hours', 'stupid', 'stuff', 'constantly', 'therapy', 'wants', 'honestly', 'hope', 'girl', 'leave']",4
+"seek, gone, someone to talk","['yet', 'deal', 'loved', 'longer', 'recently', 'body', 'read', 'gets', 'hes', 'kind']",1
+"alone, no one cares, sad","['world', 'took', 'therapy', 'part', 'many', 'close', 'honestly', 'stupid', 'went', 'wants', 'matter', 'scared', 'least', 'literally', 'thinking', 'others', 'able', 'sad', 'lost', 'havent']",5
+"bullied, been so unfair, never had friend, self harm, addiction, drug abuse, alcoholism","['sick', 'post', 'month', 'finally', 'making', 'place', 'understand', 'recently', 'alive', 'scared']",3
+"homeless, abusive family, stressed, stuck, tired of strugglin","['better', 'fucking', 'work', 'got', 'someone', 'last', 'always', 'say', 'make', 'good', 'nothing', 'back', 'felt', 'family', 'parents', 'talk', 'around', 'trying', 'keep', 'anything']",4
+"hard , appointments , medication , forced , normal , lfe ","['problems', 'couple', 'please', 'death', 'deal', 'hes', 'change', 'looking', 'crying', 'nobody']",3
+"finished half of my current career, asperger misdiagnosis, obsessed with friendship, lot of things and people in past years","['thoughts', 'wont', 'ago', 'wanted', 'new', 'another', 'find', 'without', 'give', 'days', 'sure', 'understand', 'dad', 'lost', 'everyday', 'feels', 'gonna', 'scared', 'wanna', 'reason']",2
+"peaceful , fall , no pain , no thoughts , endless , peace , sadness","['nobody', 'read', 'hes', 'change', 'death', 'either', 'gonna', 'loved', 'kind', '4']",5
+lost her brother,"['seem', 'crying', 'gets', 'saying', 'problems', 'deal', 'working', 'came', 'death', 'couple']",4
+"alive , limited , suffer , happy , dunny , help , humanity , ","['death', 'problems', 'deal', 'hes', 'read', 'recently', 'please', 'yet', 'looking', 'crying']",5
+"diagnosed depression and ocd, psychatrist appointment, ","['wouldnt', 'looking', 'stupid', 'seem', 'stuff', 'crying', 'constantly', 'might', 'kind', 'working']",3
+"can't take it, feel so awful","['constantly', 'stupid', 'hes', 'therapist', 'recently', 'read', 'alive', 'either', 'change', 'might']",5
+"dealing with my father, constant exhaustion, too much, can't handle, stress, alone, pain, exists sadly","['change', 'deal', 'couple', 'problems', 'longer', 'nobody', 'yet', 'either', 'might', 'situation']",4
+"feel worthless, relationships are shit","['therapist', 'death', 'situation', 'yet', 'either']",4
+"wasting my potential, stressing over, frustrating","['finally', 'literally', 'everyday', 'leave', 'real', 'wanna', 'girl', 'therapy', 'body', 'different']",2
+"stupid mistake just ruined my future career, didnât hand in report on time","['looking', 'telling', 'gonna', 'gets', 'came', 'constantly', 'feelings', 'therapist', 'stay', 'wouldnt']",2
+,"['gonna', 'working', 'wouldnt', 'least', 'mean', 'high', 'literally', 'mental', 'therapy', 'telling', 'pretty', 'nobody', 'already', 'put', 'loved', 'wants', 'body', 'constantly', 'stuff', 'today']",0
+shit memory forgetting everything that happened,"['read', 'problems', 'says', 'either', 'alive']",3
+"unmedicated anyway, previous dark mindset, change my outlook, tried therapy and drugs","['therapist', 'looking', 'crying', 'seem', 'saying', 'couple', 'telling', 'alive', 'gets', 'longer']",3
+"started job, worn sweater to cover scars, ashamed of them, ","['constantly', 'therapist', 'wouldnt', 'saying', 'problems', 'gets', 'feelings', 'gonna', 'gone', 'kind']",2
+"school days, super awake and stay up, phenomenon, linked to depression","['looking', 'saying', 'crying', 'kind', 'seem', 'telling', 'might', 'gets', 'please', 'gonna']",3
+"ruined by anxiety, self destructive cycle, seperated from family, become trapped, lost every job, shitty habits, to ashmed, can't keep up","['honestly', 'hours', 'wants', 'gone', 'stay', 'matter', 'mean', 'literally', 'constantly', 'wouldnt', 'mental', 'mind', 'pretty', 'working', 'part', 'stupid', 'sorry', 'might', 'whole', 'hope']",4
+"early age abandoment, frightening","['others', 'hours', 'stupid', 'gonna', 'honestly', 'mean', 'stay', 'stuff', 'might', 'kind']",4
+"mental hospitals, failing all classes, scars, sucidial dissapointment, dad changed mom stopped caring, smoking, xanax, pills","['might', 'gonna', 'saying', 'mean', 'crying', 'gets', 'stuff', 'couple', 'please', 'seem']",3
+overdosed,"['says', 'longer', None, 'im', 'dont']",3
+"leaves me beind, stops interacting, poisonous stare","['read', 'says', 'deal', 'nobody', 'situation']",5
+"stupidity, ignorance, inconsiderance, sick of hearing","['saying', 'came', 'looking', 'alive', 'therapist', 'problems', 'change', 'deal', 'crying', 'situation']",5
+,"['longer', 'believe', 'health', None, 'im']",0
+"bad tendency, beaten into submission, afraid, alcohol, tired of feeling","['saying', 'telling', 'therapist', 'kind', 'looking', 'gets', 'stay', 'seem', 'working', 'came']",3
+"doing drugs, eating shitty food, guilt, lose motivation","['could', 'nothing', 'kill', 'give', 'see', 'wont', 'wanted', 'find', 'ago', 'feeling', 'pain', 'still', 'ill', 'everything', 'anyone', 'got', 'well', 'home', 'new', 'without']",5
+"mental health, feel like nobody, self harm","['part', 'least', 'sick', 'remember', 'literally', 'body', 'close', 'relationship', 'wanna', 'seem']",5
+"failing half my classes, drop out of college, scars, nothing helps, no life direction, no ambition, no motivation, no desires","['fuck', 'two', 'makes', 'though', 'stop', 'days', 'id', 'high', 'past', 'thinking', 'isnt', 'relationship', 'havent', 'went', 'understand', 'place', 'bed', 'look', 'pretty', '3']",2
+"no money, dismiss my feelings, job","['hes', 'longer', 'nobody', 'please', 'came']",2
+,"['either', 'longer', 'recently', 'read', 'death']",0
+"she has cancer, moved out","['mean', 'telling', 'gonna', 'gets', 'might', 'working', 'crying', 'alive', 'therapist', 'health']",3
+"dad listening to his dumbass kids, sick of muself","['gone', 'feelings', 'stupid', 'constantly', 'wouldnt', 'either', 'therapist', 'yet', 'gonna', 'deal']",4
+"serious , dumbed , attention , fake , ego","['crying', 'close', 'everyday', 'least', 'remember', 'looking', 'took', 'part', 'working', 'alive']",5
+"lost everything, no job, no money, isolate myself, feel so embarrassed, been so happy","['net', 'seems', 'u', 'let', 'hours', 'used', 'relationship', 'wants', 'talking', 'sometimes']",2
+"asian family, ranted about friend, pressure, huge hyprocrite, get mad, begging for sympathy, insulted him, lazy","['making', 'relationship', '3', 'month', 'post', 'finally', 'weeks', 'seems', 'wasnt', 'pretty', 'house', 'hes', 'used', 'hurt', 'wanna', 'change', 'alive', 'u', 'came', 'probably']",4
+"loosing my apartment, job is constant, hardly home, burden","['might', 'came', 'therapist', 'saying', 'telling', 'seem', 'crying', 'gonna', 'looking', 'longer']",2
+"struggle to understand, fear failing, exams were awful, feel dumer, no friends, persoanlity is awful, too awkward, worthless, hideous and fatm can't event cry","['last', 'since', 'hate', 'love', 'something', 'everyone', 'lost', 'feeling', 'two', 'end', 'someone', 'stop', 'always', 'way', 'year', 'one', 'get', 'im', 'like', 'school']",2
+"can't think striaght, forced me, threatening to kick, want to quit, afraid","['took', 'seem', 'therapy', 'gone', 'hours', 'deal', 'please', 'feelings', 'couple', '4']",2
+,"['yet', 'hes', 'either', 'loved', 'read']",0
+,"['crying', 'gets', 'stuff', 'gone', 'working', 'seem', 'came', 'kind', 'wouldnt', 'alive']",0
+"interrogated/yelled at, mother is dying, no significance, sick, feel like nothing, tired of it","['seem', 'crying', 'saying', 'telling', 'looking', 'deal', 'came', 'stuff', 'please', 'stupid', 'wouldnt', 'situation', 'death', 'place', 'relationship', 'mean', 'problems', 'couple', 'close', 'taking']",4
+end up crying,"['alive', 'couple', 'deal', 'problems', 'change', 'loved', 'situation', 'therapist', 'yet', 'please']",5
+"heartbreakm, empty, drown myself, feeling so hopless","['death', 'please', 'came', 'problems', 'loved', 'situation', 'read', 'alive', 'couple', 'change']",5
+"treat badly, hurtful to","['situation', 'longer', 'deal', 'nobody', 'says']",1
+can't last longer,"['loved', 'health', 'longer', None, 'im']",0
+"close to grandmother, mom is so much in pain, delusional thoughts, negative views, tried so hard, suffer, lot of guilt terrible","['looking', 'times', 'days', 'crying', 'though', 'saying', '2', 'read', 'came', 'many', 'change', 'therapy', 'alive', 'telling', 'two', 'kind', 'might', 'nobody', 'havent', 'self']",4
+"loneliness, hurt my ego, spiro, estrogen","['thinking', 'fuck', 'little', 'id', 'though', 'two', 'days', 'lost', 'looking', 'situation', 'world', 'times', 'havent', 'loved', 'today', '4', 'come', 'wouldnt', 'please', 'able']",1
+"mentally unstable, overwhelmed, tired","['situation', 'hes', 'either', 'loved', 'yet']",5
+life is bitch,"['nobody', 'longer', 'loved', 'either', 'yet']",0
+"it wasn't really what we were supposed to do for the assignment, he didn't say he liked anything I did","['theres', 'self', 'actually', 'another', 'almost', 'look', 'able', 'suicidal', 'mom', 'alive', 'worse', 'came', 'come', 'recently', 'loved', 'hope', 'remember', 'death', 'hurt', 'gone']",2
+"only feel this because of my school, filled with unfairness, don't appreciate me, treated like shit, worthless","['change', 'read', 'problems', 'death', 'looking', 'nobody', 'therapist', 'different', 'came', 'hes']",2
+"pain, weak","['literally', 'took', 'therapy', 'death', 'crying', 'read', 'wants', 'constantly', 'hes', 'mean']",5
+"constantly low, been worse, sick of it,","['making', 'weeks', 'understand', 'post', 'whole', 'net', 'seems', 'college', 'head', 'saying']",5
+,"['different', 'therapy', 'today', 'wrong', 'couldnt', 'post', 'honestly', 'body', 'girl', 'leave']",0
+"throws tantrums, made to feel small, ego, beats me down, lashes out, misery","['death', 'problems', 'please', 'couple', 'alive', 'looking', 'telling', 'therapist', 'came', 'kind']",1
+"routine, bullied in school, crying","['saying', 'kind', 'couple', 'therapist', 'seem', 'please', 'stuff', 'read', 'recently', 'close']",1
+"homeless, lack of communtion, unmotivated, empty, feeling really down","['us', 'isnt', 'house', 'taking', 'looking', 'remember', 'came', 'mean', 'net', 'finally']",4
+"don't find joy, dog is the only reason not dead, ","['therapist', 'looking', 'please', 'kind', 'saying', 'seem', 'alive', 'change', 'stupid', 'might']",4
+"havent had a solid friend, take you for granted, hard to make a friend","['gone', 'mean', 'situation', 'alive', 'might', 'working', 'read', 'seem', 'loved', 'hes']",4
+"feeling worse, terrified, pretending","['deal', 'read', 'please', 'therapist', 'couple']",5
+"donât have support from family and friends, best friend, ruin everyone else's life, bad coping mechanism","['literally', 'matter', 'least', 'therapy', 'actually', 'took', 'come', 'makes', 'everyday', 'leave', 'close', 'scared', 'stay', 'left', 'many', 'wants', 'pretty', 'us', 'stupid', 'lost']",4
+"things that remind you of trauma, exposed and scared and weak, ","['read', 'problems', 'couple', 'deal', 'situation', 'please', 'nobody', 'loved', 'says', 'either']",5
+"alone, nobody wants me, ugly, dumb, cry","['loved', 'hes', 'yet', 'nobody', 'deal', 'longer', '4', 'recently', 'gets', 'situation']",1
+"only thing kept me here is my boyfriend, ","['real', 'leave', 'girl', 'part', 'remember', 'literally', 'body', 'us', 'different', 'taking']",4
+"death is stalking, sucidal ideations,","['gets', 'might', 'working', 'came', 'crying', 'kind', 'old', 'saying', 'gone', 'went', 'put', 'therapist', 'constantly', 'sad', 'reason', 'another', 'dad', 'others', 'honestly', 'many']",5
+"why my boyfriend could love me when I don't even love myself, lonely, mental health, failure, scared of judgement, self harmed, waste of space, tried so hard, annoying","['tell', 'wanna', 'college', 'wish', 'friend', 'home', 'post', 'couldnt', 'havent', 'pain', 'real', 'remember', 'isnt', 'week', 'tired', 'sometimes', 'lost', 'id', 'times', 'fuck']",4
+"down mood, headaches, sex problem, venlafaxine, vengeanc","['came', 'nobody', 'gets', 'couple', 'looking', 'yet', 'deal', 'crying', 'recently', 'might']",3
+"anxiety got worse, trouble staying asleeping, problems swith concerntration, bad nausea, prozacm, zoloft, diarrhea","['problems', 'change', 'please', 'couple', 'recently', 'came', 'nobody', 'working', 'hes', 'situation']",3
+"have no future, don't wanna wake","['loved', 'change', 'couple', 'alive', 'situation']",5
+"try, convince, excuse, bad, deserve, injustice, disgusting, stain","['yet', 'read', 'longer', 'please', 'alive', 'recently', 'says', 'situation', 'change', 'death']",1
+,"['says', 'health', 'believe', None, 'im']",0
+"learn, sad, assure, worse, logic, leave, constant, connections","['might', 'gonna', 'telling', 'looking', 'kind', 'stuff', 'therapist', 'seem', 'saying', 'longer', 'wouldnt', 'either', 'mental', 'says', 'yet', 'honestly', '4', 'talking', 'loved', 'wanna']",5
+"gotten worse, tried so hard, pain","['came', '4', 'loved', 'couple', 'situation']",5
+"anxiety, friends are disappearing, hit really hard, insignificant, hate myself, unworthy, useless, extremely sad","['worse', '2', 'done', 'stop', 'said', 'find', 'little', 'havent', 'wanted', 'wrong', 'days', 'mom', 'ago', 'times', 'many', 'part', 'shit', 'job', 'whole', 'without']",4
+"ending the relationship, donât speak to my mother, she doesnât want me, debt, job is going","['saying', 'came', 'alive', 'might', 'loved', 'read', 'couple', 'nobody', 'working', 'death']",4
